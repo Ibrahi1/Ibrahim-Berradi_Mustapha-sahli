@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="255" height="12" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" source="tile2.tsx"/>
+ <layer id="1" name="obs" width="255" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt00EJADAMwMAZ6G/+tZbBXOQOIiFzgJr5AS3ehybvQ5P3ocn70OR9aPI+NHkfmrwPTe/7KymX96VuC4StKNY=
+  </data>
+ </layer>
+ <layer id="2" name="grid" width="255" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt00ENADAQw7AxKX+W+xyL2FIgZA+o2QW0eB+avA9N3ocm70OT96HJ+9DkfWjyPjRNkiSl+l+6QC8=
+  </data>
+ </layer>
+ <layer id="5" name="car" width="255" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt1tsKABEUBVBv/v+PvStjKyYzrVVK2ke5JKUAAAAAAADAneqhLADwHf4D/zY6s6fxXXeidi2ZI+mn9Ultmkn2pV9vuvaV/Khmln+btwIAuEkDlXwBLg==
+  </data>
+ </layer>
+ <layer id="6" name="win" width="255" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt1cENgCAUA1AveMEhGY1RGM1G4whCjO8lTTj2Uv62AQAAAABfUJJ9dQlgupocq0sA0+TWt2y+PXc/f0DPuy+uBbwsO2/1znX3k77bPvxGNj+y/7G6BzBXbv0otg8AxAlpiger
+  </data>
+ </layer>
+ <layer id="4" name="item" width="255" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0cENgCAMAEAS/u4/rgOoGEuJTbj7AAFaSlsDAAAAAAAAqKE/zO/Wb3uj8xGz8WbuZ9USiRPN/eVedq+q5SOP3l3t/icr6u+LR4Dqjr8fAACbOQGUcwBj
+  </data>
+ </layer>
+</map>

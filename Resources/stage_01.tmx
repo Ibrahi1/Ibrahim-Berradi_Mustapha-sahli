@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="200" height="12" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="tile2.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEKwCAMBMB8wP9/t/fiQoNUEGdgQUiJF/fSUVVDRGLqdZ4xN79t3unHKvvtP23/33fCyfQDMv2ATD8g0w/I9AMy/WCnznv78u2uf74iIiLdPCaQIyU=
+  </data>
+ </layer>
+ <layer id="5" name="grid" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEKwCAMBMD8xP//svfiQoNUEGdgQUiJF/fSUVVDRGLqdZ4xN79t3unHKvvtP23/33fCyfQDMv2ATD8g0w/I9AMy/WCnznv78u2uf74iIiLdPIp5U80=
+  </data>
+ </layer>
+ <layer id="2" name="item" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0tsKgCAQBFDB///nXkOSXClz4xyIkoa8TKUAAAAAAEAedTBzl1uZyS6yv9F+Mqud55nxm2pz72XO1+y32vdfd3x17qO9fb323fS6XdV5dP7d/sWIp/a64gxm54rkZzKZ+gbgXw6UMADc
+  </data>
+ </layer>
+ <layer id="4" name="win" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEJwDAQA0A3TuMM6dE8ikeLSEiRAYJd3IHgSzXiSwEAAAD+UJNjdQnYVEvO1SVgM/kZPbvo7//ITkbusbgWbCFb6O3J/T+ScdgHfGQXMxuZq3vAjvIzZrUPAH50AUOGB6s=
+  </data>
+ </layer>
+ <layer id="3" name="car" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzsEJgDAMBdDcenInR3EUR3FUFTyIJ7UttvgeBBoafhIBAPWkiHGvt//y5fecX1vt++TLbzkfAAAAWpGOKjX7JK9V1/tz+xK2zPlcPcyUdt2T29/YN53eS+7skzz4o+HrA+DnVgruHgQ=
+  </data>
+ </layer>
+</map>
